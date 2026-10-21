@@ -1,0 +1,17 @@
+{
+  "name": "v3-ar-music-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@distube/distube": "^5",
+    "@distube/soundcloud": "^2",
+    "@distube/spotify": "^3",
+    "@distube/yt-dlp": "^2",
+    "discord.js": "^14",
+    "dotenv": "^16"
+  }
+}
